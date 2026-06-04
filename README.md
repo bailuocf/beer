@@ -1,2 +1,8 @@
 # beer-ascii
-Print beer ASCII art in your terminal.
+
+Print beer ASCII art.
+
+## Usage
+
+```bash
+beer        # print beer
