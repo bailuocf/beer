@@ -33,4 +33,3 @@ sudo ln -s $(pwd)/beer.py /usr/local/bin/beer
 ```bash
 beer        # 显示啤酒ASCII图像
 ```
-```
