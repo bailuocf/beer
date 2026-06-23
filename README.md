@@ -1,8 +1,7 @@
+本文档同时提供 [Typst 版本](./README.typ)
 # Beer
 
 在终端显示啤酒ASCII图像
-
-本文档同时提供 [Typst 版本](./README.typ)
 
 ## 安装
 
